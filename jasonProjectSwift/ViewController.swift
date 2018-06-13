@@ -43,6 +43,7 @@ class ViewController: UIViewController {
         //反斜线加括号插入变量名
         let str201 = "100"
         let num201 = 200
+        
         print("\(str201)qwertyuiopasdf\(num201)gh")
         
         
